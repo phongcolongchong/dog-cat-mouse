@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^3.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phongcolongchong/dog-cat-mouse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phongcolongchong/dog-cat-mouse/issues"
+  },
+  "homepage": "https://github.com/phongcolongchong/dog-cat-mouse#readme"
 }
