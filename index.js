@@ -8,11 +8,6 @@ let mouse = new Mouse('Mickey');
 
 try {
   cat.eat(dog);
-<<<<<<< HEAD
-} catch(error) {
-  console.log('Error when cat eat a dog');
-}
-
 } catch (error) {
   console.log('Error when cat eating a dog');
 }
