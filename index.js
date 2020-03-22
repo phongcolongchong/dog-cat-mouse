@@ -13,11 +13,9 @@ try {
   console.log('Error when cat eat a dog');
 }
 
-console.log(dog);
-=======
 } catch (error) {
   console.log('Error when cat eating a dog');
 }
 
 console.log(cat);
->>>>>>> ef2c722942ae6c1fd79ec420e6511ff01de3782f
+
